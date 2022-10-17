@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Fuzzy+Bubbles&display=swap');
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    color: brown;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+header p {
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: brown;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+div{
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid chocolate; 
+    border-radius: 25px;       
+}
+
+img{
+    width: 300px;
+    float: left;
+    margin: 1em;
+}
+
+.firstpara {
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-color: rgb(223, 60, 60);
+    color: white;
+    margin: 1em;
+}
+
+.secondpara {
+    font-family: 'Fuzzy Bubbles', cursive;
+    color: cadetblue;
+}
+
+.thirdpara {
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-color: rgb(39, 80, 216);
+    color: white;
+    margin: 1em;
+}
